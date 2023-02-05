@@ -1,0 +1,65 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.buttonColumn {
+    text-align: center;
+    word-spacing: 170px;
+    margin-top: 70px;
+}
+
+button {
+    cursor: pointer;
+    background-color: rgb(255, 255, 54);
+    color: black;
+    border: none;
+    border-radius: 50px;
+}
+
+button:hover {
+    opacity: 0.95;
+}
+
+.sonyText {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.macText {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.iphoneText {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 80px;
+}
+
+.img {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 70px;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 120px;
+}
+
+img {
+    cursor: pointer;
+    margin-top:5px;
+    margin-left: 10px;
+    padding-right: 24px;
+}
